@@ -1,0 +1,20 @@
+OrderID,CustomerID,CustomerName,Email,OrderDate,ShipDate,ProductID,ProductName,Quantity,UnitPrice,Discount,PaymentMethod,ShippingAddress,City,Country,PostalCode,OrderStatus,Status,Shipping_Status,quantity_outlier_flag,address_missing_flag,PostalCodeFlag
+1001,C001,John Smith,john.smith@email.com,2026-01-15,2026-01-17,P100,Laptop,1,1200.00,10,Credit Card,12 Main St,New York,USA,10001,Delivered,PASS,PASS,NORMAL,false,false
+1002,C002,Emma Johnson,emma@email.com,2026-01-16,2026-01-18,P101,Mouse,2,25.99,5,PayPal,45 Park Ave,Chicago,USA,60601,Delivered,PASS,PASS,NORMAL,false,false
+1003,C003,Liam Brown,,,,P102,Keyboard,1,79.99,0,Credit Card,78 King Rd,Toronto,Canada,M5H2N2,Shipped,PASS,PASS,NORMAL,false,false
+1004,C004,Olivia Davis,olivia@email.com,2026-01-18,2026-01-20,P103,Monitor,1,299.99,15,Debit Card,90 Queen St,London,UK,SW1A1AA,Delivered,PASS,PASS,NORMAL,false,false
+1005,C005,Noah Wilson,noah@email.com,2026-01-19,,P104,Desk,1,0.00,0,Bank Transfer,21 Lake Dr,Seattle,USA,98101,Pending,PASS,PASS,NORMAL,false,false
+1006,C006,Ava Miller,ava@email.com,2026-01-20,2026-01-22,P105,Chair,1,150.50,0,Credit Card,17 Hill St,Boston,USA,02108,Delivered,PASS,PASS,NORMAL,false,false
+1007,C007,Sophia Moore,sophia@email.com,2026-01-21,2026-01-23,P106,Webcam,3,89.99,5,Cash,,Dallas,USA,75201,Delivered,PASS,PASS,NORMAL,true,false
+1008,C008,James Taylor,james@email.com,2026-01-22,2026-01-24,P107,Headset,2,,10,Credit Card,89 North Ave,Miami,USA,33101,Delivered,PASS,PASS,NORMAL,false,false
+1009,C009,Charlotte Anderson,charlotte@email.com,2026-01-23,2027-12-31,P108,SSD,2,129.99,5,Credit Card,55 Elm St,Denver,USA,80201,Delivered,PASS,FAIL_DATE_TOO_FAR_FUTURE,NORMAL,false,false
+1010,C010,Benjamin Thomas,ben@email.com,2026-01-24,2026-01-25,P109,USB Cable,5,9.99,0,PayPal,10 Oak St,Austin,USA,73301,Delivered,PASS,PASS,NORMAL,false,false
+1011,C011,Lucas Jackson,lucas@email.com,2026-01-25,2026-01-26,P110,Printer,1,350.00,5,Credit Card,180 Cedar Road,San Francisco,USA,94105,Delivered,FAIL,PASS,NORMAL,false,false
+1011,C011,Lucas Jackson,lucas@email.com,2026-01-25,2026-01-26,P110,Printer,1,350.00,5,Credit Card,18 Cedar Rd,San Francisco,USA,94105,Delivered,FAIL,PASS,NORMAL,false,false
+1012,C012,Mia White,mia@email.com,2026-01-26,2026-01-28,P111,Tablet,2,499.99,10,Credit Card,56 Pine St,Los Angeles,USA,90001,Delivered,PASS,PASS,NORMAL,false,false
+1013,C013,Ethan Harris,ethan@email.com,2026-01-27,2026-01-28,P112,Phone,1,899.99,5,Credit Card,11 Birch St,New York,USA,10002,,PASS,PASS,NORMAL,false,false
+1014,C014,Amelia Martin,,,2026-02-02,P113,Camera,2,650.00,10,Credit Card,78 Maple Ave,Chicago,USA,60602,Delivered,PASS,PASS,NORMAL,false,false
+1015,C015,Harper Lee,harper@email.com,2026-01-29,2026-01-30,P114,Microphone,2,89.50,5,Credit Card,45 Sunset Blvd,Los Angeles,USA,,Delivered,PASS,PASS,NORMAL,false,true
+1016,C016,Daniel Walker,daniel@email.com,2026-01-30,2026-02-01,P115,"Speaker, Bluetooth",1,199.99,0,Credit Card,99 River Rd,Houston,USA,77001,Delivered,PASS,PASS,NORMAL,false,false
+1017,C017,Ella Hall,ella@email.com,2026-01-31,2026-02-02,P116,Smart Watch,2,149.99,5,Credit Card,15 Ocean Dr,Miami,USA,33101,Delivered,PASS,PASS,NORMAL,false,false
+1018,C018,Logan Allen,logan@email.com,2026-02-01,2026-02-03,P117,Router,999999,39.99,0,Credit Card,44 Tech Park,San Jose,USA,95110,Delivered,PASS,PASS,EXTREME_OUTLIER,false,false

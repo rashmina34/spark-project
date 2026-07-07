@@ -1,0 +1,21 @@
+employee_id,department_id,name,age,gender,salary,hire_date
+1,101,John Doe,30,Male,50000,2015-01-01
+2,102,Jane Smith,25,Female,55000,2016-01-01
+3,103,Bob Brown,26,Female,40000,2016-01-01
+4,104,Alice Lee,40,Male,50000,2017-01-01
+5,105,Kate Kate,45,Male,60000,2019-01-01
+6,106,Nancy Lee,29,Female,65000,2014-01-01
+7,107,David Perk,28,Male,70000,2013-01-01
+8,108,Michel Lee,27,Male,25000,2025-01-01
+9,109,Gorge Wang,26,Female,80000,2013-01-01
+10,110,Ram Stha,31,Female,Low,2015-01-01
+11,111,Jana Hub,30,Female,53000,2017-01-01
+12,112,Sita Lee,33,Male,50000,2019-01-01
+13,113,Sony Nee,34,Male,48000,2018-01-01
+14,114,Shyam Lee,35,Female,35000,no date
+15,115,Chris Evans,29,Male,72000,2020-02-15
+16,116,Emma Stone,32,Female,68000,2021-04-20
+17,117,Tom Hardy,38,Male,90000,2018-08-10
+18,118,Sophia Kim,27,Female,56000,2022-06-01
+19,119,James Bond,41,Male,95000,2012-12-12
+20,120,Olivia Brown,24,Female,47000,2023-09-05
