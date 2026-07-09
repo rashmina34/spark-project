@@ -1,0 +1,26 @@
+OrderID,CustomerName,Email,OrderDate,ShipDate,Quantity,UnitPrice,Discount,ShippingAddress,PostalCode,OrderStatus
+1001,Alice Sharma,alice@example.com,2024-01-05,2024-01-08,2,$25.00,10,"12 Baker St, London",NW1 6XE,Shipped
+1002,  Bob Karki ,bob@example.com,01/06/2024,01/09/2024,one,30.00,0,"88 Kings Rd, London",NW3 2AB,Delivered
+1003,Chirag Gupta,NULL,2024/01/07,2024/01/10,3,$45.50,150,"5 Elm St, NY",10001,Shipped
+1004,Diya Rai,diya@example.com,2024-01-08,2024-01-05,1,20.00,5,,,Shipped
+1005,Esha Thapa,esha@example.com,2024-01-09,NULL,two,$18.75,NULL,"22 Palm Ave, LA",90001,Pending
+1006,Farhan Khan,farhan@example.com,2024-01-10,2024-01-13,999999,60.00,20,"9 Oak Rd, Delhi",110001,Shipped
+1007,Gita Adhikari,gita@example.com,2024-01-11,2024-01-14,0,-15.00,0,"14 Ring Rd, Kathmandu",44600,Shipped
+1008,Hari Bahadur,hari@example.com,01/12/2024,01/09/2024,4,22.00,10,"3 River St, Pokhara",33700,Delivered
+1009,Isha Verma,isha@example.com,2024-01-13,2024-01-16,2,NaN,0,"71 Hill Rd, Mumbai",400001,Shipped
+1010,Jack Lee,jack@example.com,2024-01-14,2024-01-17,5,35.00,10,"200 Main St, Toronto",M5V 1J2,Shipped
+1010,Jack Lee,jack@example.com,2024-01-14,2024-01-17,5,35.00,10,"200 Main St, Toronto",M5V 1J2,Shipped
+1011,Karan Mehta,NULL,2024-01-15,2024-01-18,three,28.50,0,"18 Lake Rd, Pune",411001,Delivered
+1012,Lina Gurung,lina@example.com,2024-01-16,,1,40.00,5,"5 Temple St, Kathmandu",44601,Pending
+1013,Manoj Thapa,manoj@example.com,2024-01-17,2024-07-30,2,32.00,10,"66 Green Ave, Biratnagar",56613,Shipped
+1014,Nita Basnet,nita@example.com,2024-01-18,2024-01-21,-3,27.00,0,"41 Sunset Blvd, LA",90002,Delivered
+1015,Om Prakash,om@example.com,2024-01-19,2024-01-22,1,$50.00,NULL,,700001,Shipped
+1016,Priya Nair,priya@example.com,2024-01-20,2024-01-23,2,19.99,N/A,"12 South St, Chennai",600001,Out for Delivery
+1017,,qasim@example.com,2024-01-21,2024-01-24,4,21.00,10,"9 North Rd, Lahore",54000,Shipped
+1018,Ravi Shah,ravi@example.com,19-01-2024,22-01-2024,1,26.50,5,"3 West St, Ahmedabad",380001,Delivered
+1019,Sara Khadka,sara@example.com,2024-01-22,2024-01-25,ten,33.00,0,"27 East Rd, Kathmandu",44602,Shipped
+1020,Tara Singh,tara@example.com,2024-01-23,NULL,2,29.00,0,"8 Bridge Rd, Delhi",110002,NULL
+1021,Umesh Yadav,umesh@example.com,2024-01-24,2024-01-27,1,24.00,5,"15 Canal St, Patna",800001,Shipped
+1022,Vikas Rana,vikas@example.com,2024-01-25,2024-01-28,3,NULL,10,"31 Park Ave, Jaipur",302001,Delivered
+1023,Wendy Zhao,wendy@example.com,2024-01-26,2024-01-29,2,45.00,0,"55 Central Rd, Beijing",100000,Shipped
+1024,Yusuf Ali,yusuf@example.com,2024-01-27,,abc,38.00,5,"19 Market St, Karachi",75500,Pending
