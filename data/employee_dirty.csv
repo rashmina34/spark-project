@@ -1,0 +1,26 @@
+EmployeeID,FullName,Gender,DateOfBirth,JoiningDate,ExitDate,Department,Designation,Salary,ManagerID,Email,PhoneNumber,EmploymentStatus,Country
+E001,Rita Sharma,F,1990-05-14,2019-03-01,,Engineering,Software Engineer,85000,E010,rita.sharma@company.com,+977-9812345678,Active,Nepal
+E002,  Aman Gupta ,M,1988/11/02,2018-06-15,,engineering,Sr. Software Engineer,105000,E010,aman.gupta@company.com,9800011122,Active,Nepal
+E003,Bina Thapa,Female,14-08-1992,2020-01-10,2023-05-30,HR,HR Manager,75000,E011,bina.thapa@company.com,NULL,Terminated,Nepal
+E004,Carlos Fernandez,M,1985-01-30,invalid_date,,Sales,Sales Executive,-5000,E012,carlos.f@company.com,+1-202-555-0143,Active,USA
+E005,Divya Menon,F,1995-07-19,2021-09-01,,Engineering,Software Engineer,ninety thousand,E010,divya.menon@company.com,9845012345,Active,India
+E006,Eshan Karki,M,1993-03-22,2019-03-01,,engineering ,Software Engineer,88000,E010,ESHAN.KARKI@COMPANY.COM,9812399988,active,Nepal
+E007,Farah Khan,F,2005-02-11,2022-04-18,,Marketing,Marketing Associate,60000,E013,farah.khan@company.com,9800099887,Active,Pakistan
+E008,George Lin,M,1980-12-05,2015-07-01,2024-01-15,Finance,Finance Manager,150000,E014,george.lin@company.com,NULL,Resigned,Singapore
+E009,Hina Sultana,F,NULL,2020-11-11,,Sales,Sales Executive,62000,E012,hina.sultana@company.com,9811122233,Active,Pakistan
+E010,Ishwar Adhikari,M,1975-09-09,2010-01-01,,Engineering,Engineering Director,220000,,ishwar.a@company.com,9801234567,Active,Nepal
+E010,Ishwar Adhikari,M,1975-09-09,2010-01-01,,Engineering,Engineering Director,220000,,ishwar.a@company.com,9801234567,Active,Nepal
+E011,Jyoti Rai,F,1982-06-17,2012-05-05,,HR,HR Director,180000,,jyoti.rai@company.com,9802233445,Active,Nepal
+E012,Kiran Patel,M,1979-04-25,2011-08-20,,Sales,Sales Director,175000,,kiran.patel@company.com,9803344556,Active,India
+E013,999,M,1991-10-10,2020-02-14,,Marketing,Marketing Director,,,,9804455667,Active,Nepal
+E014,Liu Wei,M,1983-02-02,2014-03-11,,Finance,Finance Director,190000,,liu.wei@company.com,+65-8123-4567,Active,Singapore
+E015,Meena Kumari,F,1998-08-08,2023-01-05,,engineering,Software Engineer,82000,E999,meena.kumari@company.com,9805566778,Active,India
+E016,Nabin Shrestha,M,1996-12-20,2022-06-01,2022-12-31,Engineering,Software Engineer,80000,E010,nabin.shrestha@company.com,9806677889,Terminated,Nepal
+E017,Omar Siddiqui,M,1989-01-01,45000,,Sales,Sales Executive,64000,E012,omar.s@company.com,9807788990,Active,Pakistan
+E018,Priya Das,F,1994-05-05,2019-10-10,,HR,HR Executive,55000,E011,priya.das@company.com,9808899001,On Leave,India
+E019,,M,1990-01-01,2020-01-01,,Sales,Sales Executive,65000,E012,unknown@company.com,9809900112,Active,Nepal
+E020,Ravi Teja,M,1997-03-03,2023-07-19,,Engineering,Software Engineer,86000,E010,ravi.teja@company.com,9810011223,Active,India
+E021,Sonal Verma,F,1991-11-11,2018-12-01,,Finance,Finance Analyst,70000,E014,sonal.verma@company.com,9811122334,Active,India
+E022,Tashi Sherpa,M,1986-06-06,2016-04-04,2021-03-01,Engineering,Software Engineer,84000,E010,tashi.sherpa@company.com,9812233445,Deceased,Nepal
+E023,Uma Nair,F,1993-09-09,2021-02-15,,HR,HR Executive,56000,E011,uma.nair@company.com,9813344556,Active,India
+E024,Vikram Joshi,M,1988-08-18,2017-05-05,,Marketing,Marketing Manager,95000,E013,vikram.joshi@company.com,9814455667,Active,India
